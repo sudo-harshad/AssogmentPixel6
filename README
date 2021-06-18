@@ -1,1 +1,9 @@
-This is Assignment submission from Harshad Meshram
+This is an Assignment submission from Harshad Meshram
+steps to follow for running .php file
+ 1)download and extract the zip file into /xampp or lampp folder ->htdocs ->extract here.
+ 2)in browser at adress bar enter link localhost/filename/WP6.php and fill form
+Steps to follow for sql :
+1)Create a database named Assignment in phpmyadmin. OR Replace the $db assignment in Config.php with your database name.
+2)select the database in phpmyadmin import the Data.sql file.
+
+ 
